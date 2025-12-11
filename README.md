@@ -17,3 +17,18 @@ The classic rock paper scissors game is here.
 We always used to play this game with our friends. Try playing it with computer.
 Basic things. But still fun to play.
 Happy Learning
+
+Project 4:
+Day 4 of learning python using simple projects.
+Today we created a concession stand programs which takes food order and calculates the total and give it back.
+Basically a menu '_'
+This project helped me practice working with dictionaries, loops, and user-driven workflows.
+Happy Learning
+
+Project 5:
+Day 5 of learning python using simple projects.
+Today we created a message encryptor. 
+It uses a random character, digit, symbols to replace the letters of a message we give.
+Each time it uses a random order.
+Helped me learn functions in python, random library etc.
+Happy Learning
