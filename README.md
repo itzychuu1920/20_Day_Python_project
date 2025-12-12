@@ -32,3 +32,11 @@ It uses a random character, digit, symbols to replace the letters of a message w
 Each time it uses a random order.
 Helped me learn functions in python, random library etc.
 Happy Learning
+
+Project 6:
+Day 5 of learning python using simple projects.
+Today we created an credit card number validator.
+Helps understand loops some string methods etc.
+It's a small program but helps learn some valuable things
+Happy Learning
+
