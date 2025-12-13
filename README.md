@@ -34,9 +34,16 @@ Helped me learn functions in python, random library etc.
 Happy Learning
 
 Project 6:
-Day 5 of learning python using simple projects.
+Day 6 of learning python using simple projects.
 Today we created an credit card number validator.
 Helps understand loops some string methods etc.
 It's a small program but helps learn some valuable things
+Happy Learning
+
+Project 7:
+Day 7 of learning python using simple projects.
+Today we created an Casino slot machine.
+It will help you understand some usage of function, parameters, methods, lists, modules etc.
+It's a small but fun project to do and learn. It's about gambling with money '_'. Don't Gamble btw.
 Happy Learning
 
