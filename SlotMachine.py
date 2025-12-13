@@ -1,4 +1,5 @@
 import random
+import time
 def spin_row():
     symbols = ["🍒", "🔔", "🍋", "🍉", "⭐"]
     return [random.choice(symbols) for _ in range(3)]
@@ -44,6 +45,7 @@ def main():
         balance -= bet
         row = spin_row()
         print("spinning...\n")
+        time.sleep(1)
         print_row(row)
         payout = get_payout(row, bet)
         if payout > 0:
@@ -57,4 +59,5 @@ def main():
     print(f"Game Over!\n Your final balance is: ${balance}")       
 
 if __name__ == '__main__':
+
     main()
