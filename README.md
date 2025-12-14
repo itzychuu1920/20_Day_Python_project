@@ -47,3 +47,10 @@ It will help you understand some usage of function, parameters, methods, lists, 
 It's a small but fun project to do and learn. It's about gambling with money '_'. Don't Gamble btw.
 Happy Learning
 
+Project 8:
+Day 8 of learning python using simple projects.
+Today we created an small bank system.
+It might help you learn more about functions and parameters.
+It can deposit, withdraw, and show balance. Its a small but helpful program.
+Happy Learning
+
